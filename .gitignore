@@ -1,0 +1,11 @@
+### gitignore ###
+
+/node_modules/*
+
+/dist/*
+
+/app/css/*
+
+/app/bower_components/*
+
+.htaccess
